@@ -1,1 +1,1 @@
-# DOM_manipulation
+# Dice-game
